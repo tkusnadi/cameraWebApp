@@ -1,0 +1,22 @@
+html {
+    background-color: #e2e2e2;
+    margin: 0;
+    padding: 0;
+}
+
+video, img, #startbutton {
+    display: block;
+    float: left;
+    border: 10px solid #fff;
+    border-radius:10px;
+}
+
+
+#startButton {
+    background: green;
+    border: none;
+    color: #fff;
+    margin: 100px 20px 20px 20px;
+    padding: 10px 20px;
+    font-size: 20px;
+}
